@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86670562332",
+    "project_id": "sharenote-9db6e",
+    "storage_bucket": "sharenote-9db6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86670562332:android:5554d7570f43b562b4fbd9",
+        "android_client_info": {
+          "package_name": "com.betulsofuoglu.sharenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86670562332-v2778ladejotd1psa1v114pmkmmu2iq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkr_SJedUXrDX-BZkCnyT8jtmF4I9oB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86670562332-v2778ladejotd1psa1v114pmkmmu2iq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
